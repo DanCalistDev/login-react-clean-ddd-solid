@@ -1,7 +1,7 @@
 
+import { AuthenticationParams } from '@/domain/usecases/'
+import { AccountModel } from '../models'
 import casual from 'casual'
-import { AuthenticationParams } from '../usecases/authentication'
-import { AccountModel } from '../models/account-model'
 
 
 
