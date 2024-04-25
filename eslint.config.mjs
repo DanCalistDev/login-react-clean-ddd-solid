@@ -9,4 +9,6 @@ export default [
   pluginJs.configs.recommended,
   ...tseslint.configs.recommended,
   pluginReactConfig,
+  "plugin:react/recommended",
+  "plugin:react/prop-types",
 ];
